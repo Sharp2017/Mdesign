@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<item id="">请选择</item>
+	<item id="晴朗">晴朗</item>
+	<item id="阳光明媚">阳光明媚</item>
+	<item id="晴转雨">晴转雨</item>
+	<item id="雨过天晴">雨过天晴</item>
+	<item id="阴转晴">阴转晴</item>
+	<item id="阴天">阴天</item>
+	<item id="小雨">小雨</item>
+	<item id="中雨">中雨</item>
+	<item id="大雨">大雨</item>
+	<item id="阵雨">阵雨</item>
+	<item id="小雪">小雪</item>
+	<item id="中雪">中雪</item>
+	<item id="大雪">大雪</item>
+	<item id="其他">其他</item>
+</Root>

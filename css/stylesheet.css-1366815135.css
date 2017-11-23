@@ -1,0 +1,17 @@
+.tx-felogin-pi1 legend
+{
+  display: none;
+}
+.tx-felogin-pi1 fieldset
+{
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  border: none;
+}
+.tx-felogin-pi1 h3
+{
+  font-size: 11pt;
+  font-weight: normal;
+  padding: 15px 0px;
+  color: #00325b;
+}

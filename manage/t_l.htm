@@ -1,0 +1,33 @@
+﻿<HTML>
+	<HEAD>
+		<TITLE>button_title_l</TITLE>
+		<META http-equiv="Content-Type" content="text/html; charset=gb2312">
+		<SCRIPT>
+		    function oa_tool() {
+		        if (window.parent.oa_frame.cols == "0,16,*") {
+		            frameshow.src = "images/p_1.gif";
+		            oa_tree.title = "隐藏工具栏"
+		            window.parent.oa_frame.cols = "160,16,*";
+		        }
+		        else {
+		            frameshow.src = "images/p_2.gif";
+		            oa_tree.title = "显示工具栏"
+		            window.parent.oa_frame.cols = "0,16,*";
+		        }
+		    }
+		</SCRIPT>
+		<META content="MSHTML 6.00.2800.1106" name="GENERATOR">
+	</HEAD>
+	<BODY text="#000000" bgColor="#cccccc" leftMargin="0" topMargin="0" marginheight="0" marginwidth="0">
+		<TABLE height="100%" cellSpacing="0" cellPadding="0" width="16" align="left" border="0"
+			ID="Table1">
+			<TBODY>
+				<TR align="middle">
+					<TD background="images/bg_1.gif">
+						<DIV id="oa_tree" title="隐藏工具栏"  onclick="oa_tool();"><IMG style="cursor:hand" id="frameshow"  height="50" src="images/p_1.gif" width="9"></DIV>
+					</TD>
+				</TR>
+			</TBODY>
+		</TABLE>
+	</BODY>
+</HTML>

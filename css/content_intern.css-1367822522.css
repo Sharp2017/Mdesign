@@ -1,0 +1,121 @@
+/* CONTENT -- anfang */
+.intern_text_left
+{
+/*  width: 475px;*/
+  width: 580px;
+  float: left;
+  padding: 25px 30px 50px;
+  margin-right: 25px;
+  text-align: left;
+}
+*+ html .intern_text_left /* IE 7 */
+{
+/*  width: 450px;*/
+  width: 555px;
+  margin-right: 40px;
+}
+* html .intern_text_left /* IE 6 */
+{
+/*  width: 450px;*/
+  width: 555px;
+  margin-right: 20px;
+}
+.intern_text_right
+{
+  padding-top: 25px;
+/*  margin-left: 545px;*/
+  margin-left: 650px;
+  text-align: left;
+}
+*+ html .intern_text_right /* IE 7 */
+{
+  padding-top: 5px;
+/*  margin-left: 530px;*/
+  margin-left: 635px;
+}
+* html .intern_text_right /* IE 6 */
+{
+/*  margin-left: 530px;*/
+  margin-left: 635px;
+}
+/* CONTENT -- ende */
+
+#c221
+{
+  margin-left: 150px;
+}
+#c216
+
+{
+  margin-left: 150px;
+}
+ 
+.newslist {
+	color: #111;
+	position: relative;
+	text-align: left;
+} 
+.newslist_cap {
+    height: auto;
+    color: #069;
+}
+.newslist_cap p {
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Verdana, sans-serif;
+    line-height: 300%;
+}
+.newslist_cap span{
+	position:absolute;
+	top:20px;
+	left:60px;
+	font-size:22px;
+    font-family: Verdana, sans-serif;
+	border:0 #000 solid;
+	margin-left:30px;
+}
+.newslist_box {
+
+    padding:10px;
+	
+}
+.newslist_box p {
+    padding-bottom: 14px;
+    padding-top: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+.newslist_box_list {
+	border-bottom: 1px dotted #ccc;
+	font-size: 14px;
+	line-height: 30px;
+	color: #006699;
+	float: left;
+	margin-left: 0px;
+	list-style-position: inside;
+}
+.newslist_box_list ul{
+	margin:0px;
+	padding:0px;}
+.newslist_box_list li{
+    width:720px;
+	margin:0px;
+	padding:0px;
+	list-style-position: inside;
+	list-style-image: url(../images/ico.png);
+}
+.newslist_box_list a:link,.newslist_box_list a:visited {
+    padding: 0 5px;
+    text-decoration: none;
+	font-size:13px;
+	color:#777777;
+}
+.newslist_box_list a:hover { color: #006699 }
+
+.A_Link_DIV a:hover  
+{
+	TEXT-DECORATION:underline;
+	color: #006699 ;
+	}
+	

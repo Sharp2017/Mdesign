@@ -1,0 +1,131 @@
+body
+{
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 8pt;
+	font-weight: normal;
+	background-color: #FC9A04;
+}
+
+#panelBar
+{
+	background-color: #FC9A04;
+	height: 100%;
+	width: 100%;
+	vertical-align: top;
+}
+
+.menuHeaderExpanded
+{
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 8pt;
+	font-weight: bold;
+	background-image: url('../Images/CPCollapse.gif');
+	background-position: right center;
+	background-repeat: no-repeat;
+	color: #FC9A04;
+	height: 23px;
+	cursor: hand;
+	border-left: 1px solid #000000;
+}
+
+.menuHeaderExpandedOver
+{
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 8pt;
+	font-weight: bold;
+	background-image: url('../Images/CPCollapse.gif');
+	background-position: right center;
+	background-repeat: no-repeat;
+	color: #FC9A04;
+	height: 23px;
+	cursor: hand;
+	border-left: 1px solid #000000;
+}
+
+.menuHeaderExpanded td
+{
+	color: #FC9A04;
+	font-size: 8pt;
+	font-weight: normal;
+}
+
+.menuHeaderExpandedOver td
+{
+	color: #FC9A04;
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.menuHeaderCollapsed
+{
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 8pt;
+	font-weight: bold;
+	background-image: url('../Images/CPExpand.gif');
+	background-position: right center;
+	background-repeat: no-repeat;
+	color: #FC9A04;
+	height: 23px;
+	cursor: hand;
+	border-left: 1px solid #000000;
+}
+
+.menuHeaderCollapsedOver
+{
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 8pt;
+	font-weight: bold;
+	background-image: url('../Images/CPExpand.gif');
+	background-position: right center;
+	background-repeat: no-repeat;
+	color: #FC9A04;
+	height: 23px;
+	cursor: hand;
+	border-left: 1px solid #000000;
+}
+
+.menuHeaderCollapsed td
+{
+	color: #FC9A04;
+	font-size: 8pt;
+	font-weight: normal;
+}
+
+.menuHeaderCollapsedOver td
+{
+	color: #FC9A04;
+	font-size: 8pt;
+	font-weight: bold;;
+}
+
+.menuItems
+{
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 8pt;
+	color: #000000;
+	position: relative;
+}
+
+.menuItems table
+{
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 8pt;
+	color: #000000;
+	border-top: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-right: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+}
+
+.menuItems a
+{
+	color: #000000;
+	text-decoration: none;
+}
+
+.menuItems a:hover
+{
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}

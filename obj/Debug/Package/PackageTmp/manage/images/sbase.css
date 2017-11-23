@@ -1,0 +1,62 @@
+.s				{font-size:12px; color:#000000; font-family:"arial"}
+.b				{font-size:12px; color:#000000}
+.alpha		{font-size:14px; filter:alpha(opacity=98)}
+.alpha2	{font-size:14px; filter:alpha(opacity=10)}
+
+a.l:link				{color:#000000; text-decoration:underline}
+a.l:visited		{color:#000000; text-decoration:underline}
+a.l:hover			{color:#bb0000; text-decoration:none}
+a.c_g:link		{font-size:12px; color:#000000; text-decoration:none}
+a.c_g:visited	{font-size:12px; color:#000000; text-decoration:none}
+a.c_g:hover	{font-size:12px; color:#bb0000; text-decoration:underline}
+a.l2:link			{color:#000000; text-decoration:none}
+a.l2:visited		{color:#000000; text-decoration:none}
+a.l2:hover		{color:#bb0000; text-decoration:none}
+a.l3:link			{color:#000000; text-decoration:none}
+a.l3:visited		{color:#0000cc; text-decoration:none}
+a.l3:hover		{color:#cc0000; text-decoration:underline}
+a.l4:link			{color:#000000; text-decoration:none}
+a.l4:visited		{color:#000000; text-decoration:none}
+a.l4:hover		{color:#0000cc; text-decoration:underline}
+a.a:link			{color:#000000; text-decoration:none}
+a.a:visited		{color:#000000; text-decoration:none}
+a.a:hover		{color:#000000; text-decoration:underline}
+a.r:link			{color:#000000; text-decoration:none}
+a.r:visited		{color:#000000; text-decoration:none}
+a.r:hover			{color:#bb0000; text-decoration:underline}
+a.no:link			{color:#000000; text-decoration:none}
+a.no:visited	{color:#000000; text-decoration:none}
+a.no:hover		{color:#000000; text-decoration:none}
+
+body					{font-size:14px; color:#000000; scrollbar-face-color:#dddddd; scrollbar-highlight-color:#eaeaea; scrollbar-shadow-color:#eaeaea; scrollbar-darkshadow-color:#777777; scrollbar-base-color:#777777; scrollbar-3d-light-color:#000000}
+form					{padding-right:0px; padding-left:0px; font-size:14px; padding-bottom:0px; margin:0px; padding-top:0px; font-style:normal}
+p							{font-size:14px; color:#000000}
+list						{border-right:#444444 1px solid; border-top:#444444 1px solid; padding-left:1px; font-size:14px; margin-bottom:3px; margin-left:1px; border-left:#444444 1px solid; padding-top:1px; border-bottom:#444444 1px solid; font-style:normal; background-color:#ffffff}
+
+td							{font-size:14px; color:#000000}
+td.small				{font-size:12px; color:#000000; font-family:"arial"}
+td.big					{font-size:18px; color:#ffffff}
+td.break				{word-break:break-all}
+td.breaksmall	{font-size:12px; color:#000000; word-break:break-all; font-family:"arial"}
+
+font.big				{font-size:14px; color:#000000}
+font.small			{font-weight:bold; font-size:10px; font-family:"arial"}
+font.small2		{font-size:12px; font-family:"arial"}
+
+select					{font-size:14px; color:#000000}
+select.s				{font-size:10px; color:#000000; font-family:"arial"}
+select.sd			{font-size:10px; color:#000000; font-family:"arial"; background-color:#eeeeee}
+
+textarea				{border-right:#444444 1px solid; border-top:#444444 1px solid; padding-left:1px; font-size:14px; margin-bottom:3px; margin-left:1px; border-left:#444444 1px solid; padding-top:1px; border-bottom:#444444 1px solid; font-style:normal; background-color:#ffffff}
+textarea.gray		{border-right:#cccccc 1px solid; border-top:#cccccc 1px solid; padding-left:1px; font-size:12px; margin-bottom:3px; margin-left:1px; border-left:#cccccc 1px solid; color:#333333; padding-top:1px; border-bottom:#cccccc 1px solid; font-style:normal; background-color:#ffffff}
+textarea.small	{border-right:#444444 1px solid; border-top:#444444 1px solid; padding-left:1px; font-size:12px; margin-bottom:3px; margin-left:1px; border-left:#444444 1px solid; color:#333333; padding-top:1px; border-bottom:#444444 1px solid; font-style:normal; background-color:#ffffff}
+
+input.l					{color:#808080}
+input					{font-size:14px; color:#000000}
+input					{border-right:#444444 1px solid; border-top:#444444 1px solid; padding-left:1px; font-size:14px; margin-bottom:3px; margin-left:1px; border-left:#444444 1px solid; padding-top:1px; border-bottom:#444444 1px solid; font-style:normal; height:20px; background-color:#ffffff}
+input.b				{border-right:#444444 2px solid; border-top:#444444 2px solid; padding-left:1px; font-size:12px; margin-bottom:3px; margin-left:1px; border-left:#444444 2px solid; padding-top:1px; border-bottom:#444444 2px solid; height:19px; background-color:#e2f2ff}
+input.s				{border-right:#444444 1px solid; border-top:#444444 1px solid; padding-left:1px; font-size:12px; margin-bottom:1px; margin-left:1px; border-left:#444444 1px solid; padding-top:1px; border-bottom:#444444 1px solid; height:18px; background-color:#ffffff}
+input.grays		{border-right:#cccccc 1px solid; border-top:#cccccc 1px solid; padding-left:1px; font-size:12px; margin-bottom:1px; margin-left:1px; border-left:#cccccc 1px solid; padding-top:1px; border-bottom:#cccccc 1px solid; height:18px; background-color:#ffffff}
+input.ss				{border-right:#cccccc 1px solid; border-top:#cccccc 1px solid; padding-left:1px; font-size:12px; margin-bottom:1px; margin-left:1px; border-left:#cccccc 1px solid; padding-top:1px; border-bottom:#cccccc 1px solid; height:16px; background-color:#ffffff}
+input.sd				{border-right:#444444 1px solid; border-top:#444444 1px solid; padding-left:1px;  font-size:12px;  margin-bottom:1px;  margin-left:1px;  border-left:#444444 1px solid;  padding-top:1px;  border-bottom:#444444 1px solid;  height:18px;  background-color:#eeeeee}
+input.for_btn		{border-right:0px;  border-top:0px;  border-left:0px;  border-bottom:0px}

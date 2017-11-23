@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<item id="">请选择</item>
+	<item id="-1">管理员</item>
+	<item id="0">普通会员</item>
+</Root>

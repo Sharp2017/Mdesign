@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<item id="">请选择</item>
+	<item id="1">苗条</item>
+	<item id="2">匀称</item>
+	<item id="3">健壮</item>
+	<item id="4">高大</item>
+	<item id="5">小巧</item>
+	<item id="6">丰满</item>
+	<item id="7">高挑</item>
+	<item id="8">较胖</item>
+	<item id="9">较瘦</item>
+	<item id="10">运动型</item>
+	<item id="11">残缺的美</item>
+	<item id="12">保密</item>
+</Root>

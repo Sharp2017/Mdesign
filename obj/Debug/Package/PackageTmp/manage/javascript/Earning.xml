@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<item id="">请选择</item>
+	<item id="1">1000以下/月</item>
+	<item id="2">1000至2000/月</item>
+	<item id="3">2000至4000/月</item>
+	<item id="4">4000至7000/月</item>
+	<item id="5">7000至10000/月</item>
+	<item id="6">10000以上/月</item>
+	<item id="7">收入不定</item>
+	<item id="8">保密</item>
+</Root>

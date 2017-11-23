@@ -1,0 +1,44 @@
+.csc-textpic-text
+{
+  padding-left: 50px;
+}
+h2
+{
+  font-size: 11pt;
+  font-weight: normal;
+  padding: 15px 0px 15px 150px;
+  /*color: #FFCA00;*/
+  color: #00325b;
+}
+
+h3
+{
+  font-size: 11pt;
+  font-weight: normal;
+  padding: 15px 0px 15px 250px;
+  /*color: #FFCA00;*/
+  color: #00325b;
+}
+
+h4
+{
+  font-size: 11pt;
+  font-weight: normal;
+  padding: 15px 0px 0px 0px;
+  margin-bottom: 0px;
+  color: #00325b;
+}
+
+.button
+{
+  /*color: #878989;*/
+  color: #777777;
+}
+
+.divider hr
+{
+  height: 1px;
+  background-color: #F8DA7b;
+  color: #F8DA7b;
+  border: none;
+}

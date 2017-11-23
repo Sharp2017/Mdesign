@@ -1,0 +1,5 @@
+E:\HRTemp\Mdesign\代码\Mdesign\bin\Mdesign.dll
+E:\HRTemp\Mdesign\代码\Mdesign\bin\Mdesign.pdb
+E:\HRTemp\Mdesign\代码\Mdesign\obj\Release\ResolveAssemblyReference.cache
+E:\HRTemp\Mdesign\代码\Mdesign\obj\Release\Mdesign.dll
+E:\HRTemp\Mdesign\代码\Mdesign\obj\Release\Mdesign.pdb

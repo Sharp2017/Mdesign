@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vogue caption="个性管理" explain="" icon="../javascript/img/gl.gif">
+	<level0 caption="主页管理" PRI="1" icon="../javascript/img/gj.gif">
+		<level1 caption="管理首页" function="execute.LoadHome();" />
+		<level1 caption="修改个人资料" function="execute.LoadEditUserInfo();" />
+		<level1 caption="修改个人设置" function="execute.LoadEditSiteSetting();" />
+		<level1 caption="主页模板栏目设置" function="execute.LoadSiteMenuSetting();" />
+		<level1 caption="修改密码" function="execute.LoadEditPassword();" />
+	</level0>
+	<level0 caption="相册管理" PRI="2" icon="../javascript/img/xc.gif">
+		<level1 caption="添加照片" function="execute.PhotoPostLoad(1,1);" />
+		<level1 caption="我的相册" function="execute.PhotoShowLoad(1,1);" />
+		<level1 caption="类别管理" function="execute.SortShow(1);" />
+	</level0>
+	<level0 caption="文集管理" PRI="3" icon="../javascript/img/wj.gif">
+		<level1 caption="添加文章" function="execute.ArticlePostLoad();" />
+		<level1 caption="我的文集" function="execute.ArticleShowLoad();" />
+		<level1 caption="类别管理" function="execute.SortShow(5);" />
+	</level0>
+	<level0 caption="Blog管理" PRI="4" icon="../javascript/img/rj.gif">
+		<level1 caption="添加Blog" function="execute.DiaryPostLoad();" />
+		<level1 caption="我的Blog" function="execute.DiaryShowLoad();" />
+	</level0>
+	<level0 caption="图片管理" PRI="5" icon="../javascript/img/tk.gif">
+		<level1 caption="添加图片" function="execute.PhotoPostLoad(2,2);" />
+		<level1 caption="我的图库" function="execute.PhotoShowLoad(2,2);" />
+		<level1 caption="类别管理" function="execute.SortShow(2);" />
+	</level0>
+	<level0 caption="音乐盒" PRI="6" icon="../javascript/img/yy.gif">
+		<level1 caption="添加音乐" function="execute.MusicPostLoad();" />
+		<level1 caption="我的音乐盒" function="execute.MusicShowLoad();" />
+		<level1 caption="音乐盒类别管理" function="execute.SortShow(6);" />
+	</level0>
+	<level0 caption="通讯录" PRI="7" icon="../javascript/img/tx.gif">
+		<level1 caption="添加联系方式" function="execute.AddressListPostLoad();" />
+		<level1 caption="我的通讯录" function="execute.AddressListLoad();" />
+		<level1 caption="通讯录类别管理" function="execute.SortShow(4);" />
+	</level0>
+	<level0 caption="网址收藏夹" PRI="8" icon="../javascript/img/wz.gif">
+		<level1 caption="添加网址收藏夹" function="execute.FavoritePostLoad();" />
+		<level1 caption="我的网址收藏夹" function="execute.FavoriteLoad();" />
+		<level1 caption="网址收藏夹类别管理" function="execute.SortShow(3);" />
+	</level0>
+	<level0 caption="备忘录" PRI="9" icon="../javascript/img/ly.gif">
+		<level1 caption="添加备忘录" function="execute.MemoPostLoad();" />
+		<level1 caption="管理备忘录" function="execute.MemoShowLoad();" />
+	</level0>
+</vogue>

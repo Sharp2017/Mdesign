@@ -1,0 +1,36 @@
+/* CONTENT -- anfang */
+.text_left
+{
+  width: 475px;
+  float: left;
+  padding:  0px 30px 50px;
+  margin-right: 25px;
+  text-align: left;
+}
+*+ html .text_left /* IE 7 */
+{
+  width: 450px;
+  margin-right: 40px;
+}
+* html .text_left /* IE 6 */
+{
+  width: 450px;
+  margin-right: 20px;
+}
+.text_right
+{
+/*  padding-top: 50px;*/
+  padding-top: 5px;
+  margin-left: 545px;
+  text-align: left;
+}
+*+ html .text_right /* IE 7 */
+{
+  padding-top: 5px;
+  margin-left: 530px;
+}
+* html .text_right /* IE 6 */
+{
+  margin-left: 530px;
+}
+/* CONTENT -- ende */

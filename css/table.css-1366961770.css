@@ -1,0 +1,1300 @@
+/* TABLE ZUSAMMEN -- anfang */
+.table_zusammen
+{
+  width: 100%;
+}
+.table_zusammen910
+{
+  width: 910px;
+	height: 54px;
+}
+.cell_left
+{
+  float: left;
+}
+.cell_right
+{
+  float: right;
+}
+.cell_left
+{
+  float:inherit;
+}
+/*
+*+ html .cell_right*/ /* IE 7 */
+/*{
+  padding-left: 180px;
+}
+* html .cell_right*/ /* IE 6 */
+/*{
+  padding-left: 180px;
+}*/
+.table_umbruch
+{
+  line-height: 1;
+}
+/* TABLE ZUSAMMEN -- ende */
+
+
+
+/* TABLE BASIC PRODUCTS -- anfang */
+.table_basic
+{
+  width: 320px;
+  height: 250px;
+  padding: 15px 10px 10px 10px;
+  background-color: #F2F2F2;
+  font-family: Calibri;
+  font-size: 11pt;
+  color: #00325b;
+  text-align: center;
+}
+.table_basic td a
+{
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+.table_basic_products
+{
+  margin-top: 25px;
+  margin-left: 15px;
+}
+
+*+ html .table_basic_products /* IE 7 */
+{
+  margin-top: 40px;
+}
+* html .table_basic_products /* IE 6 */
+{
+  margin-top: 40px;
+}
+.cell_formula
+{
+  /*width: 85px;*/
+  /*width: 88px;*/
+  width: 95px;
+  height: 80px;
+  /*background-color: #C2D69B;*/
+  background-color: #B9C58C;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #00325b;
+  text-align: center;
+}
+.cell_formula a, .cell_formula a:hover, .cell_formula a:visited, .cell_formula a:active, .cell_formula a:focus
+{
+  padding-top: 10px;
+  /*background-color: #C2D69B;*/
+  background-color: #B9C58C;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #00325b;
+  text-align: center;
+  text-decoration: none;
+}
+.cell_formula_aktiv
+{
+  /*width: 85px;*/
+  /*width: 88px;*/
+  width: 95px;
+  height: 90px;
+  /*background-color: #C2D69B;*/
+  background-color: #B9C58C;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #00325b;
+  text-align: center;
+}
+.cell_formula_inaktiv
+{
+  /*width: 85px;*/
+  /*width: 88px;*/
+  width: 95px;
+  height: 80px;
+  background-color: #D8D8D8;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #878989;
+  text-align: center;
+}
+.cell_formula_inaktiv a, .cell_formula_inaktiv a:hover, .cell_formula_inaktiv a:visited, .cell_formula_inaktiv a:active, .cell_formula_inaktiv a:focus
+{
+  padding-top: 10px;
+  background-color: #D8D8D8;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #878989;
+  text-align: center;
+  text-decoration: none;
+}
+.cell_formula_inaktiv_de
+{
+  width: 95px;
+  height: 80px;
+  background-color: #D8D8D8;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #878989;
+  text-align: center;
+}
+.cell_formula_inaktiv_de a, .cell_formula_inaktiv_de a:hover, .cell_formula_inaktiv_de a:visited, .cell_formula_inaktiv_de a:active, .cell_formula_inaktiv_de a:focus
+{
+  padding-top: 10px;
+  background-color: #D8D8D8;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #878989;
+  text-align: center;
+  text-decoration: none;
+}
+.cell_mathcad
+{
+  /*width: 190px;*/
+  /*width: 187px;*/
+  width: 180px;
+  height: 75px;
+  /*background-color: #FF6600;*/
+  background-color: #F18824;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #00325b;
+  text-align: center;
+}
+.cell_mathcad a, .cell_mathcad a:hover, .cell_mathcad a:visited, .cell_mathcad a:active, .cell_mathcad a:focus
+{
+  padding-top: 15px;
+  /*background-color: #FF6600;*/
+  background-color: #F18824;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #00325b;
+  text-align: center;
+  text-decoration: none;
+}
+.cell_mathcad_aktiv
+{
+  /*width: 190px;*/
+  /*width: 187px;*/
+  width: 180px;
+  height: 90px;
+  /*background-color: #FF6600;*/
+  background-color: #F18824;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #00325b;
+  text-align: center;
+}
+.cell_mathcad_inaktiv
+{
+  /*width: 190px;*/
+  /*width: 187px;*/
+  width: 180px;
+  height: 75px;
+  background-color: #D8D8D8;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #878989;
+  text-align: center;
+}
+.cell_mathcad_inaktiv a, .cell_mathcad_inaktiv a:hover, .cell_mathcad_inaktiv a:visited, .cell_mathcad_inaktiv a:active, .cell_mathcad_inaktiv a:focus
+{
+  padding-top: 15px;
+  background-color: #D8D8D8;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #878989;
+  text-align: center;
+  text-decoration: none;
+}
+.cell_concept
+{
+  width: 275px;
+  height: 70px;
+  /*background-color: #95369C;*/
+  background-color: #966E8E;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #00325b;
+  text-align: center;
+}
+.cell_concept a, .cell_concept a:hover, .cell_concept a:visited, .cell_concept a:active, .cell_concept a:focus
+{
+  padding-top: 20px;
+  /*background-color: #95369C;*/
+  background-color: #966E8E;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #00325b;
+  text-align: center;
+  text-decoration: none;
+}
+.cell_concept_aktiv
+{
+  width: 275px;
+  height: 90px;
+  /*background-color: #95369C;*/
+  background-color: #966E8E;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #00325b;
+  text-align: center;
+}
+.cell_concept_inaktiv
+{
+  width: 275px;
+  height: 70px;
+  background-color: #D8D8D8;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #878989;
+  text-align: center;
+}
+.cell_concept_inaktiv a, .cell_concept_inaktiv a:hover, .cell_concept_inaktiv a:visited, .cell_concept_inaktiv a:active, .cell_concept_inaktiv a:focus
+{
+  padding-top: 20px;
+  background-color: #D8D8D8;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #878989;
+  text-align: center;
+  text-decoration: none;
+}
+.cell_student
+{
+  width: 275px;
+  height: 70px;
+  background-color: #95369C;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #FFFFFF;
+  text-align: center;
+}
+.cell_student a, .cell_student a:hover, .cell_student a:visited, .cell_student a:active, .cell_student a:focus
+{
+  padding-top: 20px;
+  background-color: #95369C;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+}
+.cell_student_aktiv
+{
+  width: 275px;
+  height: 90px;
+  background-color: #95369C;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #FFFFFF;
+  text-align: center;
+}
+.cell_student_inaktiv
+{
+  width: 275px;
+  height: 70px;
+  background-color: #D8D8D8;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #878989;
+  text-align: center;
+}
+.cell_student_inaktiv a, .cell_student_inaktiv a:hover, .cell_student_inaktiv a:visited, .cell_student_inaktiv a:active, .cell_student_inaktiv a:focus
+{
+  padding-top: 20px;
+  background-color: #D8D8D8;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #878989;
+  text-align: center;
+  text-decoration: none;
+}
+.table_button_left
+{
+  /*width: 320px;*/
+  width: 340px;
+  margin: 5px 5px 5px 0px;
+  background-color: #FFFFFF;
+  text-align: center;
+}
+/* TABLE BASIC PRODUCTS -- ende */
+
+
+
+/* TABLE PROFESSIONAL PRODUCTS -- anfang */
+.table_professional
+{
+  width: 320px;
+  height: 340px;
+  padding: 15px 10px 10px 10px;
+  background-color: #F2F2F2;
+  font-family: Calibri;
+  font-size: 11pt;
+  color: #00325b;
+  text-align: center;
+}
+.table_professional1
+{
+  width: 320px;
+  height: 340px;
+  padding: 0px  10px 10px 10px;
+  background-color: #F2F2F2;
+  font-family: Calibri;
+  font-size: 11pt;
+  color: #00325b;
+  text-align: center;
+}
+.table_professional td a
+{
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+.table_professional_products
+{
+  margin-top: 25px;
+  margin-left: 15px;
+}
+.table_professional_products1
+{
+  margin-top: 0px;
+  margin-left: 15px;
+}
+*+ html .table_professional_products /* IE 7 */
+{
+  margin-top: 40px;
+}
+* html .table_professional_products /* IE 6 */
+{
+  margin-top: 40px;
+}
+.cell_mechanical
+{
+  /*width: 190px;*/
+  /*width: 187px;*/
+  width: 180px;
+  height: 75px;
+  /*background-color: #336699;*/
+  background-color: #6E90B6;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #00325B;
+  text-align: center;
+}
+.cell_mechanical a, .cell_mechanical a:hover, .cell_mechanical a:visited, .cell_mechanical a:active, .cell_mechanical a:focus
+{
+  padding-top: 15px;
+  /*background-color: #336699;*/
+  background-color: #6E90B6;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #00325B;
+  text-align: center;
+  text-decoration: none;
+}
+.cell_mechanical_aktiv
+{
+  /*width: 190px;*/
+  /*width: 187px;*/
+  width: 125px;
+  height: 90px;
+  /*background-color: #336699;*/
+  background-color: #6E90B6;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #00325B;
+  text-align: center;
+}
+.cell_mechanical_inaktiv
+{
+  /*width: 190px;*/
+  /*width: 187px;*/
+  width: 180px;
+  height: 75px;
+  background-color: #D8D8D8;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #878989;
+  text-align: center;
+}
+.cell_mechanical_inaktiv a, .cell_mechanical_inaktiv a:hover, .cell_mechanical_inaktiv a:visited, .cell_mechanical_inaktiv a:active, .cell_mechanical_inaktiv a:focus
+{
+  padding-top: 15px;
+  background-color: #D8D8D8;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #878989;
+  text-align: center;
+  text-decoration: none;
+}
+.cell_explorer
+{
+  /*width: 85px;*/
+  /*width: 88px;*/
+  width: 95px;
+  height: 80px;
+  /*background-color: #95B3D7;*/
+  background-color: #9EBEE4;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #00325b;
+  text-align: center;
+}
+.cell_explorer a, .cell_explorer a:hover, .cell_explorer a:visited, .cell_explorer a:active, .cell_explorer a:focus
+{
+  padding-top: 10px;
+  /*background-color: #95B3D7;*/
+  background-color: #9EBEE4;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #00325b;
+  text-align: center;
+  text-decoration: none;
+}
+.cell_explorer_aktiv
+{
+  /*width: 85px;*/
+  /*width: 88px;*/
+  width: 95px;
+  height: 90px;
+  /*background-color: #95B3D7;*/
+  background-color: #9EBEE4;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #00325b;
+  text-align: center;
+}
+.cell_explorer_inaktiv
+{
+  /*width: 85px;*/
+  /*width: 88px;*/
+  width: 100px;
+  height: 80px;
+  background-color: #D8D8D8;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #878989;
+  text-align: center;
+}
+.cell_explorer_inaktiv a, .cell_explorer_inaktiv a:hover, .cell_explorer_inaktiv a:visited, .cell_explorer_inaktiv a:active, .cell_explorer_inaktiv a:focus
+{
+  padding-top: 10px;
+  background-color: #D8D8D8;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #878989;
+  text-align: center;
+  text-decoration: none;
+}
+.cell_shaftbolt
+{
+  width: 275px;
+  height: 85px;
+  /*background-color: #A5A5A5;*/
+  background-color: #93A4AD;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #00325b;
+  text-align: center;
+}
+.cell_shaftbolt a, .cell_shaftbolt a:hover, .cell_shaftbolt a:visited, .cell_shaftbolt a:active, .cell_shaftbolt a:focus
+{
+  padding-top: 5px;
+  /*background-color: #A5A5A5;*/
+  background-color: #93A4AD;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #00325b;
+  text-align: center;
+  text-decoration: none;
+}
+.cell_shaftbolt_aktiv
+{
+  width: 275px;
+  height: 90px;
+  /*background-color: #A5A5A5;*/
+  background-color: #93A4AD;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #00325b;
+  text-align: center;
+}
+.cell_shaftbolt_inaktiv
+{
+  width: 275px;
+  height: 85px;
+  background-color: #D8D8D8;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #878989;
+  text-align: center;
+}
+.cell_shaftbolt_inaktiv a, .cell_shaftbolt_inaktiv a:hover, .cell_shaftbolt_inaktiv a:visited, .cell_shaftbolt_inaktiv a:active, .cell_shaftbolt_inaktiv a:focus
+{
+  padding-top: 5px;
+  background-color: #D8D8D8;
+  font-family: Calibri;
+  font-size: 8pt;
+  color: #878989;
+  text-align: center;
+  text-decoration: none;
+}
+.table_button_right
+{
+  /*width: 320px;*/
+  width: 340px;
+  margin: 5px 5px 5px 0px;
+  background-color: #FFFFFF;
+  text-align: center;
+}
+/* TABLE PROFESSIONAL PRODUCTS -- ende */
+
+
+
+/* TABLE BASIC START -- anfang */
+.table_basic_start
+{
+  width: 475px;
+/*  height: 340px;
+  padding: 15px 10px 10px 10px;
+  background-color: #F2F2F2;
+  font-family: Calibri;
+  font-size: 13pt;
+  color: #00325b;*/
+  text-align: center;
+}
+.table_basic_start td a
+{
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+.cell_formula_start
+{
+  /*width: 95px;
+  height: 80px;*/
+  width: 140px;
+  height: 103px;
+  background-color: #B9C58C;
+  font-family: Calibri;
+  font-size: 10pt;
+  color: #00325b;
+  text-align: center;
+}
+.cell_formula_start a, .cell_formula_start a:hover, .cell_formula_start a:visited, .cell_formula_start a:active, .cell_formula_start a:focus
+{
+  padding-top: 32px;
+  background-color: #B9C58C;
+  font-family: Calibri;
+  font-size: 10pt;
+  color: #00325b;
+  text-align: center;
+  text-decoration: none;
+}
+.cell_mathcad_start
+{
+  /*width: 180px;
+  height: 75px;*/
+  width: 225px;
+  height: 103px;
+  background-color: #F18824;
+  font-family: Calibri;
+  font-size: 10pt;
+  color: #00325b;
+  text-align: center;
+}
+.cell_mathcad_start a, .cell_mathcad_start a:hover, .cell_mathcad_start a:visited, .cell_mathcad_start a:active, .cell_mathcad_start a:focus
+{
+  padding-top: 32px;
+  background-color: #F18824;
+  font-family: Calibri;
+  font-size: 10pt;
+  color: #00325b;
+  text-align: center;
+  text-decoration: none;
+}
+.cell_concept_start
+{
+  /*width: 275px;
+  height: 70px;*/
+  width: 320px;
+  height: 103px;
+  background-color: #966E8E;
+  font-family: Calibri;
+  font-size: 10pt;
+  color: #00325b;
+  text-align: center;
+}
+.cell_concept_start a, .cell_concept_start a:hover, .cell_concept_start a:visited, .cell_concept_start a:active, .cell_concept_start a:focus
+{
+  padding-top: 32px;
+  background-color: #966E8E;
+  font-family: Calibri;
+  font-size: 10pt;
+  color: #00325b;
+  text-align: center;
+  text-decoration: none;
+}
+.table_button_left
+{
+  width: 430px;
+  margin: 5px 5px 5px 0px;
+  background-color: #FFFFFF;
+  text-align: center;
+}
+/* TABLE BASIC START -- ende */
+
+
+
+/* TABLE PROFESSIONAL START -- anfang */
+.table_professional_start
+{
+  width: 410px;
+/*  height: 340px;
+  padding: 15px 10px 10px 10px;
+  background-color: #F2F2F2;
+  font-family: Calibri;
+  font-size: 13pt;
+  color: #00325b;*/
+  text-align: center;
+}
+/**+ html .table_professional_start*/ /* IE 7 */
+/*{
+  margin-left: 20px;
+}
+* html .table_professional_start*/ /* IE 6 */
+/*{
+  margin-left: 20px;
+}*/
+.table_professional_start td a
+{
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+.cell_mechanical_start
+{
+  /*width: 180px;
+  height: 75px;*/
+  width: 225px;
+  height: 103px;
+  background-color: #6E90B6;
+  font-family: Calibri;
+  font-size: 10pt;
+  color: #00325B;
+  text-align: center;
+}
+.cell_mechanical_start a, .cell_mechanical_start a:hover, .cell_mechanical_start a:visited, .cell_mechanical_start a:active, .cell_mechanical_start a:focus
+{
+  padding-top: 32px;
+  background-color: #6E90B6;
+  font-family: Calibri;
+  font-size: 10pt;
+  color: #00325B;
+  text-align: center;
+  text-decoration: none;
+}
+.cell_explorer_start
+{
+  /*width: 95px;
+  height: 80px;*/
+  width: 140px;
+  height: 103px;
+  background-color: #9EBEE4;
+  font-family: Calibri;
+  font-size: 10pt;
+  color: #00325b;
+  text-align: center;
+}
+.cell_explorer_start a, .cell_explorer_start a:hover, .cell_explorer_start a:visited, .cell_explorer_start a:active, .cell_explorer_start a:focus
+{
+  padding-top: 32px;
+  background-color: #9EBEE4;
+  font-family: Calibri;
+  font-size: 10pt;
+  color: #00325b;
+  text-align: center;
+  text-decoration: none;
+}
+.cell_shaftbolt_start
+{
+  /*width: 275px;
+  height: 85px;*/
+  width: 220px;
+  height: 113px;
+  background-color: #93A4AD;
+  font-family: Calibri;
+  font-size: 10pt;
+  color: #00325b;
+  text-align: center;
+}
+.cell_shaftbolt_start a, .cell_shaftbolt_start a:hover, .cell_shaftbolt_start a:visited, .cell_shaftbolt_start a:active, .cell_shaftbolt_start a:focus
+{
+  padding-top: 22px;
+  background-color: #93A4AD;
+  font-family: Calibri;
+  font-size: 10pt;
+  color: #00325b;
+  text-align: center;
+  text-decoration: none;
+}
+.table_button_right
+{
+  width: 430px;
+  margin: 5px 5px 5px 0px;
+  background-color: #FFFFFF;
+  text-align: center;
+}
+/* TABLE PROFESSIONAL START -- ende */
+
+
+
+/* TABLE BASIC START DEUTSCH -- anfang */
+.table_basic_start_de
+{
+  /*width: 395px;
+  height: 305px;*/
+  width: 780px;
+  height: 183px;
+  padding: 15px 10px 10px 10px;
+  background-color: #F2F2F2;
+  font-family: Calibri;
+  font-size: 13pt;
+  color: #00325b;
+  text-align: center;
+}
+.table_basic_start_de td a
+{
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+.cell_formula_start_de
+{
+  width: 121px;
+  height: 101px;
+  background-color: #B9C58C;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #00325b;
+  text-align: center;
+}
+.cell_formula_start_de a, .cell_formula_start_de a:hover, .cell_formula_start_de a:visited, .cell_formula_start_de a:active, .cell_formula_start_de a:focus
+{
+  background-color: #B9C58C;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #00325b;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 20px;
+}
+.cell_mathcad_start_de
+{
+  width: 251px;
+  height: 91px;
+  background-color: #F18824;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #FFFFFF;
+  text-align: center;
+}
+.cell_mathcad_start_de a, .cell_mathcad_start_de a:hover, .cell_mathcad_start_de a:visited, .cell_mathcad_start_de a:active, .cell_mathcad_start_de a:focus
+{
+  background-color: #F18824;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 30px;
+}
+.cell_student_start_de
+{
+  width: 377px;
+  height: 86px;
+  background-color: #95369C;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #FFFFFF;
+  text-align: center;
+}
+.cell_student_start_de a, .cell_student_start_de a:hover, .cell_student_start_de a:visited, .cell_student_start_de a:active, .cell_student_start_de a:focus
+{
+  background-color: #95369C;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 35px;
+}
+.table_button_left_de
+{
+  /*width: 415px;*/
+  width: 800px;
+  height: 25px;
+  margin: 5px 0px 5px 0px;
+  background-color: #FFFFFF;
+  text-align: center;
+}
+/* TABLE BASIC START DEUTSCH -- ende */
+
+
+
+/* TABLE PROFESSIONAL START DEUTSCH -- anfang */
+.table_professional_start_de
+{
+  width: 780px;
+  /*height: 340px;*/
+  height: 430px;
+  padding: 15px 10px 10px 10px;
+  background-color: #F2F2F2;
+  font-family: Calibri;
+  font-size: 13pt;
+  color: #00325b;
+  text-align: center;
+}
+.table_professional_start_de td a
+{
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+.cell_mechanical_start_de
+{
+  width: 251px;
+  height: 86px;
+  background-color: #6E90B6;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #00325B;
+  text-align: center;
+}
+.cell_mechanical_start_de a, .cell_mechanical_start_de a:hover, .cell_mechanical_start_de a:visited, .cell_mechanical_start_de a:active, .cell_mechanical_start_de a:focus
+{
+  background-color: #6E90B6;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #00325B;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 35px;
+}
+.cell_explorer_start_de
+{
+  width: 123px;
+  height: 101px;
+  background-color: #9EBEE4;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #00325b;
+  text-align: center;
+}
+.cell_explorer_start_de a, .cell_explorer_start_de a:hover, .cell_explorer_start_de a:visited, .cell_explorer_start_de a:active, .cell_explorer_start_de a:focus
+{
+  background-color: #9EBEE4;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #00325b;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 20px;
+}
+.cell_author_start_de
+{
+  width: 123px;
+  height: 101px;
+  background-color: #EF7235;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #FFFFFF;
+  text-align: center;
+}
+.cell_author_start_de a, .cell_author_start_de a:hover, .cell_author_start_de a:visited, .cell_author_start_de a:active, .cell_author_start_de a:focus
+{
+  background-color: #EF7235;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 20px;
+}
+.cell_shaftbolt_start_de
+{
+  width: 251px;
+  height: 116px;
+  background-color: #93A4AD;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #00325b;
+  text-align: center;
+}
+.cell_shaftbolt_start_de a, .cell_shaftbolt_start_de a:hover, .cell_shaftbolt_start_de a:visited, .cell_shaftbolt_start_de a:active, .cell_shaftbolt_start_de a:focus
+{
+  background-color: #93A4AD;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #00325b;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 5px;
+}
+.cell_shaftbolt_start_de img
+{
+  float: right;
+  padding-right: 10px;
+}
+.cell_allgemein_start_de
+{
+  width: 507px;
+  height: 101px;
+  background-color: #B9C58C;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #00325b;
+  text-align: left;
+}
+.cell_allgemein_start_de a, .cell_allgemein_start_de a:hover, .cell_allgemein_start_de a:visited, .cell_allgemein_start_de a:active, .cell_allgemein_start_de a:focus
+{
+  background-color: #B9C58C;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #00325b;
+  text-align: left;
+  text-decoration: none;
+  padding-top: 20px;
+}
+.cell_allgemein_start_de img
+{
+  float: left;
+  padding-right: 5px;
+  padding-left: 25px;
+}
+.cell_gearbox_start_de
+{
+  width: 251px;
+  height: 96px;
+  background-color: #525668;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #FFFFFF;
+  text-align: center;
+}
+.cell_gearbox_start_de a, .cell_gearbox_start_de a:hover, .cell_gearbox_start_de a:visited, .cell_gearbox_start_de a:active, .cell_gearbox_start_de a:focus
+{
+  background-color: #525668;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 25px;
+}
+.cell_espresso_start_de
+{
+  width: 251px;
+  height: 86px;
+  background-color: #F18824;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #00325b;
+  text-align: center;
+}
+.cell_espresso_start_de a, .cell_espresso_start_de a:hover, .cell_espresso_start_de a:visited, .cell_espresso_start_de a:active, .cell_espresso_start_de a:focus
+{
+  background-color: #F18824;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #00325b;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 35px;
+}
+.cell_lvr_start_de
+{
+  width: 251px;
+  height: 96px;
+  background-color: #8C8875;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #FFFFFF;
+  text-align: center;
+}
+.cell_lvr_start_de a, .cell_lvr_start_de a:hover, .cell_lvr_start_de a:visited, .cell_lvr_start_de a:active, .cell_lvr_start_de a:focus
+{
+  background-color: #8C8875;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 25px;
+}
+.cell_lvr_start_de img
+{
+  float: right;
+  padding-right: 15px;
+}
+.cell_lvrplanet_start_de
+{
+  width: 251px;
+  height: 96px;
+  background-color: #966E8E;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #00325b;
+  text-align: center;
+}
+.cell_lvrplanet_start_de a, .cell_lvrplanet_start_de a:hover, .cell_lvrplanet_start_de a:visited, .cell_lvrplanet_start_de a:active, .cell_lvrplanet_start_de a:focus
+{
+  background-color: #966E8E;
+  font-family: Tahoma,Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  line-height: 13px;
+  color: #00325b;
+  text-align: center;
+  text-decoration: none;
+  padding-top: 25px;
+}
+.table_button_right_de
+{
+  width: 800px;
+  height: 25px;
+  margin: 5px 0px 5px 0px;
+  background-color: #FFFFFF;
+  text-align: center;
+}
+/* TABLE PROFESSIONAL START DEUTSCH -- ende */
+
+
+
+/* TABLE MDESIGN MORE -- anfang */
+.table_mdesign_more
+{
+}
+.cell_mdesign_more_left
+{
+  padding-right: 15px;
+}
+.cell_mdesign_more_right
+{
+  width: 200px;
+  padding: 15px;
+  border-left: 1px solid #D8D8D8;
+}
+/* TABLE MDESIGN MORE -- ende */
+
+
+
+/* TABLE PRODUCT-LINKS -- anfang */
+.product_links
+{
+  padding-left: 15px;
+  border-left: 1px solid #D8D8D8;
+}
+* html .product_links /* IE 6 */
+{
+  margin-left: 15px;
+}
+.cell_flyer_img IMG
+{
+  width: 27px;
+}
+.cell_flyer_text
+{
+  padding-left: 10px;
+  font-weight: bold;
+}
+.cell_pricelist_img IMG
+{
+  width: 27px;
+}
+.cell_pricelist_text
+{
+  padding-left: 10px;
+  font-weight: bold;
+}
+.cell_trial_img IMG
+{
+  width: 27px;
+}
+.cell_trial_text
+{
+  padding-left: 10px;
+  font-weight: bold;
+}
+.cell_trial_text_inaktiv
+{
+  padding-left: 10px;
+  font-weight: bold;
+  color: #D8D8D8;
+}
+.cell_shop_img IMG
+{
+  width: 27px;
+}
+.cell_shop_text
+{
+  padding-left: 10px;
+  font-weight: bold;
+}
+.cell_shop_text_inaktiv
+{
+  padding-left: 10px;
+  font-weight: bold;
+  color: #D8D8D8;
+}
+.cell_contact_img IMG
+{
+  width: 27px;
+}
+.cell_contact_text
+{
+  padding-left: 10px;
+  font-weight: bold;
+}
+/* TABLE PRODUCT-LINKS -- ende */
+
+
+
+/* DIV PRODUCT-LINKS -- anfang */
+.div_professional_image
+{
+  width: 320px;
+  text-align: left;
+  margin: 25px 0px 0px 15px;
+  padding: 0px;
+}
+/* DIV PRODUCT-LINKS -- ende */
+
+
+
+
+/* DIV PRODUCT-LINKS DEUTSCH -- anfang */
+.div_professional_image_de
+{
+  width: 320px;
+  text-align: left;
+  margin: 0px 0px 0px 15px;
+  padding: 0px;
+}
+#c157
+{
+  width: 510px;
+}
+#a#b, #c157
+{
+  width: auto;
+}
+* +html #c157
+{
+  min-width: 510px;
+}
+#c158
+{
+  width: 510px;
+}
+#a#b, #c158
+{
+  width: auto;
+}
+* +html #c158
+{
+  min-width: 510px;
+}
+#c159
+{
+  width: 510px;
+}
+#a#b, #c159
+{
+  width: auto;
+}
+* +html #c159
+{
+  min-width: 510px;
+}
+#c160
+{
+  width: 510px;
+}
+#a#b, #c160
+{
+  width: auto;
+}
+* +html #c160
+{
+  min-width: 510px;
+}
+#c161
+{
+  width: 510px;
+}
+#a#b, #c161
+{
+  width: auto;
+}
+* +html #c161
+{
+  min-width: 510px;
+}
+#c162
+{
+  width: 510px;
+}
+#a#b, #c162
+{
+  width: auto;
+}
+* +html #c162
+{
+  min-width: 510px;
+}
+/* DIV PRODUCT-LINKS DEUTSCH -- ende */
+
+/* TABLE MENU-INTERN -- anfang */
+.menu_intern
+{
+  padding-left: 15px;
+  border-left: 1px solid #D8D8D8;
+}
+* html .menu_intern /* IE 6 */
+{
+  margin-left: 15px;
+}
+.cell_img IMG
+{
+  width: 27px;
+}
+.cell_text
+{
+  padding-left: 10px;
+  font-weight: bold;
+}
+/* TABLE MENU-INTERN -- ende */

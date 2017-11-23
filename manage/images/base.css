@@ -1,0 +1,111 @@
+TD {
+	FONT-SIZE: 9pt; COLOR: #000000;FONT-FAMILY: arial
+}
+BODY {
+	  FONT-SIZE: 9pt;   COLOR: #000000;   FONT-FAMILY: arial  
+}
+Table.tmain
+{
+BORDER-RIGHT: #937ae7 1px solid; BORDER-TOP: #937ae7 1px solid; BORDER-LEFT: #937ae7 1px solid; BORDER-BOTTOM: #937ae7 1px solid;
+width:"100%";
+TEXT-ALIGN: left;
+
+padding-top:10;
+padding-bottom:10;
+}
+TD.listTd
+{
+COLOR: #000;  background: #d9d8dc;
+padding-left:3px;
+}
+BODY.main
+{
+background:url(../images/background.gif); margin:3px 0 0 0;
+}
+SELECT {
+	FONT-SIZE: 9pt; COLOR: #000000
+}
+INPUT {
+	FONT-SIZE: 9pt; HEIGHT: 15pt;FONT-FAMILY: arial
+}
+A {
+	FONT-SIZE: 9pt; COLOR: darkblue; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 9pt; COLOR: #ff0000; TEXT-DECORATION: underline
+}
+.font10 {
+	FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+.fontb {
+	FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+.label {
+	FONT-SIZE: 9pt; COLOR: #000000
+}
+.beijing1 {
+	BACKGROUND-IMAGE: url(../images/tuopian08.gif)
+}
+SELECT {
+	FONT-SIZE: 12px; FONT-FAMILY: arial
+}
+.btn {
+	FONT-SIZE: 12px; CURSOR: hand; FONT-FAMILY: "arial"
+}
+INPUT {
+	FONT-SIZE: 12px; FONT-FAMILY: arial
+}
+FILE {
+	FONT-SIZE: 12px; FONT-FAMILY: arial
+}
+TD {
+	FONT-SIZE: 12px; FONT-FAMILY: arial
+}
+BODY {
+	FONT-SIZE: 12px; FONT-FAMILY: arial
+}
+TEXTAREA {
+	FONT-SIZE: 12px; FONT-FAMILY: arial;
+    width: 530px;
+    height: 52px;
+}
+SPAN {
+	FONT-SIZE: 12px; FONT-FAMILY: arial
+}
+.bg {
+	BACKGROUND-POSITION: center top; BACKGROUND-REPEAT: no-repeat
+}
+.noline {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.f3 {
+	FONT-SIZE: 9pt; COLOR: #ffffff; LINE-HEIGHT: 12pt; TEXT-DECORATION: none
+}
+.outertable1 {
+	BACKGROUND-COLOR: #efefef
+}
+.outertable2 {
+	BACKGROUND-COLOR: #f6f6f6
+}
+.outertable3 {
+	BACKGROUND-COLOR: #fcfcfc
+}
+.maintable {
+	LINE-HEIGHT: 25px; BACKGROUND-COLOR: #efefef
+}
+.maintablelight {
+	LINE-HEIGHT: 25px; BACKGROUND-COLOR: #efefef
+}
+.titletd {
+	FONT-SIZE: 9pt; COLOR: #ffffff; BACKGROUND-COLOR: #38669e; TEXT-DECORATION: none
+}
+.chaxuntd {
+	FONT-SIZE: 9pt; COLOR: #ffffff; BACKGROUND-COLOR: #38669e; TEXT-DECORATION: none
+}
+A.navsubsection:visited {
+	FONT-SIZE: 9px; COLOR: #0404ff; LINE-HEIGHT: 15px; FONT-FAMILY: ËÎÌו
+}
+A.navsubsection:link {
+	FONT-SIZE: 9px; COLOR: #0404ff; LINE-HEIGHT: 15px; FONT-FAMILY: ËÎÌו
+}
+.button{ background:url(buttom_bg1.gif);cursor:hand; width:72px; height:20px; border:0; color:#244055; line-height:20px;}

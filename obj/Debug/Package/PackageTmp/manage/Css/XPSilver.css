@@ -1,0 +1,123 @@
+body
+{
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 8pt;
+	font-weight: normal;
+	background-color: #B9BCCD;
+}
+
+#panelBar
+{
+	background-color: #B9BCCD;
+	height: 100%;
+	width: 100%;
+	vertical-align: top;
+}
+
+.menuHeaderExpanded
+{
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 8pt;
+	font-weight: bold;
+	background-image: url('../Images/SilverExpand.gif');
+	background-position: right center;
+	background-repeat: no-repeat;
+	color: #000000;
+	height: 23px;
+}
+
+.menuHeaderExpandedOver
+{
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 8pt;
+	font-weight: bold;
+	background-image: url('../Images/SilverExpand.gif');
+	background-position: right center;
+	background-repeat: no-repeat;
+	color: #000000;
+	height: 23px;
+}
+
+.menuHeaderExpanded td
+{
+	color: #000000;
+	font-size: 8pt;
+	font-weight: normal;
+}
+
+.menuHeaderExpandedOver td
+{
+	color: #000000;
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.menuHeaderCollapsed
+{
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 8pt;
+	font-weight: bold;
+	background-image: url('../Images/SilverCollapse.gif');
+	background-position: right center;
+	background-repeat: no-repeat;
+	color: #B9BCCD;
+	height: 23px;
+}
+
+.menuHeaderCollapsedOver
+{
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 8pt;
+	font-weight: bold;
+	background-image: url('../Images/SilverCollapse.gif');
+	background-position: right center;
+	background-repeat: no-repeat;
+	color: #B9BCCD;
+	height: 23px;
+}
+
+.menuHeaderCollapsed td
+{
+	color: #000000;
+	font-size: 8pt;
+	font-weight: normal;
+}
+
+.menuHeaderCollapsedOver td
+{
+	color: #000000;
+	font-size: 8pt;
+	font-weight: bold;;
+}
+
+.menuItems
+{
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 8pt;
+	color: #000000;
+	position: relative;
+}
+
+.menuItems table
+{
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 8pt;
+	color: #004799;
+	border-top: none;
+	border-left: 1px solid #ffffff;
+	border-right: 1px solid #ffffff;
+	border-bottom: 1px solid #ffffff;
+}
+
+.menuItems a
+{
+	color: #000000;
+	text-decoration: none;
+}
+
+.menuItems a:hover
+{
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}

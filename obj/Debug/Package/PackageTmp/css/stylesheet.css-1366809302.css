@@ -1,0 +1,110 @@
+.tx-srlanguagemenu-pi1 p, .tx-srlanguagemenu-pi1 .links-list-header
+{
+  color: #35006D;
+  font-family: Verdana,sans-serif;
+  font-size: 0.8em;
+  line-height: 100%;
+  margin-top: 8px;
+  padding: 0;
+  text-indent: 0;
+}
+.tx-srlanguagemenu-pi1 img
+{
+  border-style: none;
+  margin: 0 5px;
+  padding: 0;
+}
+.tx-srlanguagemenu-pi1 .CUR
+{
+  float: left;
+  font-size: 0.8em;
+}
+.tx-srlanguagemenu-pi1 .CUR a
+{
+  background-color: transparent;
+  color: #35006D;
+  font-weight: bold;
+  text-decoration: none;
+}
+.tx-srlanguagemenu-pi1 .CUR a:focus, .tx-srlanguagemenu-pi1 .CUR a:hover, .tx-srlanguagemenu-pi1 .CUR a:active
+{
+  color: #333333;
+}
+.tx-srlanguagemenu-pi1 .NO
+{
+  float: left;
+  font-size: 0.8em;
+}
+.tx-srlanguagemenu-pi1 .NO a
+{
+  background-color: transparent;
+  color: #35006D;
+  font-weight: bold;
+  text-decoration: none;
+  filter: alpha(opacity=50);
+  -moz-opacity: 0.5;
+  opacity: 0.5;
+}
+.tx-srlanguagemenu-pi1 .NO img
+{
+  filter: alpha(opacity=50);
+}
+.tx-srlanguagemenu-pi1 .NO a:focus, .tx-srlanguagemenu-pi1 .NO a:hover, .tx-srlanguagemenu-pi1 .NO a:active
+{
+  color: #333333;
+  filter:alpha(opacity=100);
+  -moz-opacity: 1;
+  opacity: 1;
+}
+.tx-srlanguagemenu-pi1 .NO img:focus, .tx-srlanguagemenu-pi1 .NO img:hover, .tx-srlanguagemenu-pi1 .NO img:active
+{
+  filter: alpha(opacity=100);
+}
+.tx-srlanguagemenu-pi1 .INACT
+{
+  float: left;
+  font-size: 0.8em;
+  filter:alpha(opacity=50);
+  -moz-opacity: 0.5;
+  opacity: 0.5;
+}
+.tx-srlanguagemenu-pi1 .INACT a
+{
+  background-color: transparent;
+  color: #35006D;
+  font-weight: normal;
+  text-decoration: none;
+}
+.tx-srlanguagemenu-pi1 .INACT a:focus, .tx-srlanguagemenu-pi1 .INACT a:hover, .tx-srlanguagemenu-pi1 .INACT a:active
+{
+  color: #333333;
+}
+.tx-srlanguagemenu-pi1 .SPC
+{
+  color: #35006D;
+  float: left;
+  font-family: Verdana,sans-serif;
+  font-size: 0.8em;
+  line-height: 100%;
+}
+.tx-srlanguagemenu-pi1 fieldset
+{
+}
+.tx-srlanguagemenu-pi1 fieldset legend
+{
+}
+.tx-srlanguagemenu-pi1 fieldset label
+{
+  display: none;
+}
+.tx-srlanguagemenu-pi1 fieldset select
+{
+  background-color: #35006D;
+  color: white;
+  font-family: Verdana,sans-serif;
+  font-size: 0.8em;
+  font-weight: bold;
+}
+.tx-srlanguagemenu-pi1 fieldset option.tx-srlanguagemenu-pi1-option-0
+{
+}

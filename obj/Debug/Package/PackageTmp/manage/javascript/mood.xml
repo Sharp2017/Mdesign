@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<item id="">请选择</item>
+	<item id="一般">一般</item>
+	<item id="不错">不错</item>
+	<item id="激动">激动</item>
+	<item id="兴奋">兴奋</item>
+	<item id="开心">开心</item>
+	<item id="痛苦">痛苦</item>
+	<item id="郁闷">郁闷</item>
+	<item id="难受">难受</item>
+	<item id="孤独">孤独</item>
+	<item id="寂寞">寂寞</item>
+	<item id="茫然">茫然</item>
+	<item id="死灰">死灰</item>
+	<item id="冷漠">冷漠</item>
+	<item id="很爽">很爽</item>
+	<item id="非常爽">非常爽</item>
+	<item id="狂躁">狂躁</item>
+	<item id="病态">病态</item>
+	<item id="难受">难受</item>
+	<item id="变态">变态</item>
+	<item id="其它">其它</item>
+</Root>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<item id="">请选择</item>
+	<item id="1">初中</item>
+	<item id="2">中专</item>
+	<item id="3">高中</item>
+	<item id="4">大学本科</item>
+	<item id="5">大学专科</item>
+	<item id="6">硕士</item>
+	<item id="7">博士</item>
+</Root>

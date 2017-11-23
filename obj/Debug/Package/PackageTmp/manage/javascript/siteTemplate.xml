@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<add value="0" title="默认模板" image="~/home/css/0/view.gif" checked="false"></add>
+</Root>

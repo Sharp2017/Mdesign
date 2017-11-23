@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--检测脚本提示信息输出数据.其中:initMsg默认信息;errMsg出错信息;okMsg正确信息-->
+<checkMsg>
+	<initMsg>
+		<msg id="Username" value="4-20位英文字母、数字或下划线组成" />
+		<msg id="Password" value="6-20位英文字母、数字、下划线及常用符号(Shift+数字键)组成" />
+		<msg id="SafeString" value="不小于6位英文字母、数字及各种符号(不含空格)混合组成" />
+		<msg id="Chinese" value="只允许输入中文" />
+		<msg id="English" value="只允许输入英文" />
+		<msg id="TrueAge" value="18-80岁" />
+		<msg id="FalseAge" value = "不小于18岁" />
+		<msg id="Date" value="日期格式：2000-01-01" />
+		<msg id="Like" value="请选择2到3种爱好" />
+		<msg id="Pic" value="图片格式：gif,jpeg,png,jpg,bmp，最大上传字节512KB" />
+		<msg id="Music" value="音乐格式：asf,asx,wma,wmx,wmv,wvx,mp3,wav,mid;最大文件字节为5MB" />
+		<msg id="Tel" value="格式：0755-12345678 该项内容保密，请放心填写。" />
+		<msg id="null" value="" />
+		 
+	</initMsg>
+	<errMsg>
+		<msg id="Require" value="请填写/选择该项内容。" />
+		<msg id="Compare" value="请检查两次填写值是否相同。" />
+		<msg id="Format" value="请检查填写内容格式是否有误。" />
+		<msg id="Range" value="请检查填写内容字符范围。" />
+		<msg id="Mobile" value="请填写正确的手机号码，如13800138000" />
+		<msg id="Tel" value="请填写正确的电话号码，如0755-88888888或86-0755-88888888" />
+		<msg id="Email" value="请填写正确的Email地址" />
+		<msg id="Url" value="请检查填写Url格式是否有误。格式如:http://www.dooogo.com" />
+		<msg id="Image" value="请检查填写图片Url格式是否有误。格式如:http://www.dooogo.com/logo.jpg，图片格式：gif,jpeg,png,jpg,bmp" />
+		<msg id="null" value="" />
+	</errMsg>
+	<okMsg>
+		<msg id="inputOk" value="填写成功。" />
+		<msg id="selectOk" value="选择成功。" />
+		<msg id="null" value="" />
+	</okMsg>
+</checkMsg>

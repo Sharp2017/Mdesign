@@ -1,0 +1,81 @@
+
+/* für alle Auflistungen -- ANFANG */
+ol, ul, li, dl, dt, dd
+{
+  margin:0;
+}
+ol, ul
+{
+  margin:0 0 20px;
+}
+ol
+{
+  list-style-position: outside;
+}
+/* für alle Auflistungen -- ENDE */
+
+
+
+form {
+  border:none;
+  margin:0 0 20px 0;
+  padding:0;
+}
+
+fieldset {
+/*  border:0;
+  margin:0;
+  padding:0;
+*/  
+  background-color: transparent !important;
+  border: 1px solid #CCCCCC;
+  padding: 10px;
+}
+
+label {
+  display:block;
+  margin:0;
+  padding:0;
+}
+
+.tx-srfeuserregister-pi1
+{
+  width: 600px;
+/*  margin-left: 150px;*/
+}
+
+
+.tx-srfeuserregister-pi1 a {
+    background-image: url("marker.png")/*tpa=http://www.mdesign.info/fileadmin/template/feuser_register/img/marker.png*/ !important;
+    background-position: 0 60%;
+    background-repeat: no-repeat;
+    font-size: 15px;
+    padding-left: 0px;
+    text-decoration: underline;
+    padding-left: 14px;
+/*    text-decoration: none;*/
+}
+
+.tx-srfeuserregister-pi1 label {
+  color: #515151;
+  white-space: normal;
+  text-align: left;
+}
+
+.tx-srfeuserregister-pi1 legend {
+  color: black !important;
+}
+
+.tx-srfeuserregister-pi1 input[type="text"], .tx-srfeuserregister-pi1 input[type="password"], .tx-felogin-pi1 input[type="text"], .tx-felogin-pi1 input[type="password"] {
+    background: none repeat scroll 0 0 #F8F8F8 !important;
+    border: 1px solid #CCCCCC !important;
+    box-shadow: 0 0 5px #EEEEEE inset !important;
+    padding: 2px !important;
+    width: 300px !important;
+}
+
+.tx-srfeuserregister-pi1 input:focus:not([type="submit"]), .tx-felogin-pi1 input:focus:not([type="submit"]) {
+    background: none repeat scroll 0 0 #FFFFFF !important;
+    border: 1px solid #333333 !important;
+    box-shadow: none !important;
+}

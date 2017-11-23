@@ -1,0 +1,83 @@
+/* HEADER MENU -- anfang */
+#menu
+{
+  padding: 10px 0px 0px 0px;
+  background: #F2F2F2;
+  font-family: Verdana,Arial,Helvetica,sans-serif;
+  font-size: 8pt;
+  /*color: #878989;*/
+  color: #777777;
+  line-height: 1.5;
+  float: right;
+}
+#menu ul
+{
+  float: left;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px 0px 0px 20px;
+}
+/*--definiert die "Drop-Down-Links" im Normalzustand--*/
+#menu a
+{
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  background: #F2F2F2;
+  /*color: #878989;*/
+  color: #777777;
+}
+/*--definiert die "Drop-Down-Links" im Hoverzustand--*/
+#menu a:hover
+{
+  text-decoration: underline;
+  /*color: #878989;*/
+  color: #777777;
+  background: #F2F2F2;
+}
+/*
+*verhindert im Zusammenhang mit position absolute bei ul ul
+*eine Höhenvergrößerung von #menu beim Hovern--
+*/
+#menu li
+{
+  position: relative;
+}
+/*--versteckt die "Drop-Down-Links", solange nicht gehovert wird--*/
+#menu ul ul
+{
+  position: absolute;
+  z-index: 2;
+  padding: 0px 0px 4px 0px;
+  display: none;
+}
+*+ html #menu ul ul /* IE 7 */
+{
+  left: 0px;
+  top: 15px;
+}
+* html #menu ul ul /* IE 6 */
+{
+  position: static;
+  z-index: 2;
+  padding: 0px 0px 0px 0px;
+  display: inline; /* immer anzeigen, da IE6 kein einblenden bei hover kann */
+}
+#menu ul ul li
+{
+  white-space: nowrap;
+  background-color: #F2F2F2;
+  padding: 6px 5px;
+}
+* html #menu ul ul li /* IE 6 */
+{
+  position: static;
+  margin: 0px 0px 0px -15px;
+}
+/*--lässt die Dropdown-Links beim Hovern erscheinen--*/
+#menu ul li:hover ul
+{
+  display: block;
+  background: #F2F2F2;
+}
+/* HEADER MENU -- ende */

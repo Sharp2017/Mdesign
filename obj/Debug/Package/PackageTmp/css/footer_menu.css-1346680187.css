@@ -1,0 +1,76 @@
+/* FOOTER MENU -- anfang */
+.footer_right
+{
+  float: right;
+  text-align: right;
+  font-family: Verdana,Arial,Helvetica,sans-serif;
+  font-size: 8pt;
+  /*color: #878989;*/
+  color: #777777;
+  /*padding: 45px 10px 0px 10px;*/
+  padding: 39px 5px 0px 0px;
+}
+#footer_right ul
+{
+  float: left;
+  list-style-type: none;
+  margin: 0px;
+  /*padding: 0px 0px 0px 20px;*/
+  padding: 0px 0px 0px 10px;
+}
+/*--definiert die "Drop-Down-Links" im Normalzustand--*/
+#footer_right a
+{
+  text-decoration: none;
+  text-align: right;
+  font-family: Verdana,Arial,Helvetica,sans-serif;
+  font-size: 8pt;
+  /*color: #878989;*/
+  color: #777777;
+}
+/*--definiert die "Drop-Down-Links" im Hoverzustand--*/
+#footer_right a:hover
+{
+  text-decoration: underline;
+  /*color: #878989;*/
+  color: #777777;
+}
+/*
+*verhindert im Zusammenhang mit position absolute bei ul ul
+*eine Höhenvergrößerung von #menu beim Hovern--
+*/
+#footer_right li
+{
+  position: relative;
+}
+/*--versteckt die "Drop-Down-Links", solange nicht gehovert wird--*/
+#footer_right ul ul
+{
+  position: absolute;
+  z-index: 2;
+  padding: 0px 0px 4px 0px;
+  display: none;
+}
+* html #footer_right ul ul /* IE 6 */
+{
+  position: static;
+  z-index: 2;
+  padding: 0px 0px 0px 0px;
+  display: inline; /* immer anzeigen, da IE6 kein einblenden bei hover kann */
+}
+#footer_right ul ul li
+{
+  white-space: nowrap;
+  padding: 2px 5px;
+}
+* html #footer_right ul ul li /* IE 6 */
+{
+  position: static;
+  margin: 0px 0px -15px -15px;
+}
+/*--lässt die Dropdown-Links beim Hovern erscheinen--*/
+#footer_right ul li:hover ul
+{
+  display: block;
+}
+/* FOOTER MENU -- ende*/

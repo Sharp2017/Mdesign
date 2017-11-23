@@ -1,0 +1,123 @@
+body
+{
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 8pt;
+	font-weight: normal;
+	background-color: #6E90E4;
+}
+
+.panelBar
+{
+	background-color: #6E90E4;
+	height: 100%;
+	width: 100%;
+	vertical-align: top;
+}
+
+.menuHeaderExpanded
+{
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 8pt;
+	font-weight: bold;
+	background-image: url('../Images/BlueCollapse.gif');
+	background-position: right center;
+	background-repeat: no-repeat;
+	color: #618BD7;
+	height: 25px;
+}
+
+.menuHeaderExpandedOver
+{
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 8pt;
+	font-weight: bold;
+	background-image: url('../Images/BlueCollapse.gif');
+	background-position: right center;
+	background-repeat: no-repeat;
+	color: #618BD7;
+	height: 25px;
+}
+
+.menuHeaderExpanded td
+{
+	color: #618BD7;
+	font-size: 8pt;
+	font-weight: normal;
+}
+
+.menuHeaderExpandedOver td
+{
+	color: #618BD7;
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.menuHeaderCollapsed
+{
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 8pt;
+	font-weight: bold;
+	background-image: url('../Images/BlueExpand.gif');
+	background-position: right center;
+	background-repeat: no-repeat;
+	color: #618BD7;
+	height: 25px;
+}
+
+.menuHeaderCollapsedOver
+{
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 8pt;
+	font-weight: bold;
+	background-image: url('../Images/BlueExpand.gif');
+	background-position: right center;
+	background-repeat: no-repeat;
+	color: #618BD7;
+	height: 25px;
+}
+
+.menuHeaderCollapsed td
+{
+	color: #618BD7;
+	font-size: 8pt;
+	font-weight: normal;
+}
+
+.menuHeaderCollapsedOver td
+{
+	color: #618BD7;
+	font-size: 8pt;
+	font-weight: bold;;
+}
+
+.menuItems
+{
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 8pt;
+	color: #004799;
+	position: relative;
+}
+
+.menuItems table
+{
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 8pt;
+	color: #004799;
+	border-top: none;
+	border-left: 1px solid #ffffff;
+	border-right: 1px solid #ffffff;
+	border-bottom: 1px solid #ffffff;
+}
+
+.menuItems a
+{
+	color: #000000;
+	text-decoration: none;
+}
+
+.menuItems a:hover
+{
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}
